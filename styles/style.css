@@ -238,10 +238,9 @@ body {
      }
  }
 
- @media (max-width: 396px){
+ @media (max-width: 400px){
    
     .cabecalho{
-        padding: 6.7%;
-        
+        padding: 5.5%;
     }
  }
